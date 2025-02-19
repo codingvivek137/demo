@@ -1,9 +1,6 @@
----
-
-|NAME | ENROLLMENT NO. | COLLEGE EMAIL |
-|KUNWAR VIVEK SINGH | DE22380 | 22btc038@ietdavv.edu.in|
-
----
+| NAME               | ENROLLMENT NO. | COLLEGE EMAIL           |
+| ------------------ | -------------- | ----------------------- |
+| KUNWAR VIVEK SINGH | DE22380        | 22btc038@ietdavv.edu.in |
 
 ---
 
