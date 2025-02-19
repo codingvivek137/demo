@@ -10,4 +10,4 @@
 |                   | INTERMEDIATE    | https://www.youtube.com/watch?v=vwj89i2FmG0 |
 |                   | ADVANCED        | https://www.youtube.com/watch?v=vwj89i2FmG0 |
 |                   | CODEOWNERS      | https://www.youtube.com/watch?v=THe8Oi9uSZs |
-|                   | HOOKS           |                                             |
+|                   | HOOKS           | https://www.youtube.com/watch?v=ObksvAZyWdo |
